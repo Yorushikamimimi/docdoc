@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+config.toml*
+*.docx
+*.pdf
+*.png
