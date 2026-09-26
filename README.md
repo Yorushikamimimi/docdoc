@@ -75,3 +75,7 @@ docdoc 重点处理**修改已有 DOCX**。它不保证所有 Word 对象都能�
 ## 许可证
 
 MIT，见 [LICENSE](LICENSE)。
+
+## 贡献者
+
+[@Yorushikamimimi](https://github.com/Yorushikamimimi)
